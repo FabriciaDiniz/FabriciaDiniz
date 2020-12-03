@@ -8,7 +8,7 @@ My name is Fabrícia Diniz, my pronouns are **she/her**, I study web development
 
 📫 **You can find me @**
 
-  - 👾 [Twitch](http://twitch.tv/nomadcodemist) - mon, wed and fri [EN] streaming something code related and chatting with everybody
+  - 👾 [Twitch](http://twitch.tv/nomadcodemist) - tue and thu [pt_BR] streaming something code related and chatting with everybody
   
   - 🎬 [Youtube](http://youtube.com/c/nomadcodemist) - tech and routine related videos 
   
@@ -18,7 +18,12 @@ My name is Fabrícia Diniz, my pronouns are **she/her**, I study web development
   
   - 🖥 [DEV.to](https://dev.to/fabriciadiniz)
   
-  - 🐣 [Twitter](http://twitter.com/nomadcodemist)
+  - 🐣 [Twitter](http://twitter.com/fabrciadiniz)
+
+📜 **Blog posts**
+
+ <!-- BLOG-POST-LIST:START -->
+ <!-- BLOG-POST-LIST:END -->
 
 ⚡ **Fun facts**:
 
