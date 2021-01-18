@@ -2,7 +2,7 @@
 
 ****
 
-My name is Fabrícia Diniz, my pronouns are **she/her**, I study web development since 2017 and I'm always looking for new ways to improve. I'm currently working at the wonderful [Intmed](https://intmed.com.br/) as a Fullstack developer.
+My name is Fabrícia Diniz, my pronouns are **she/her**, I study web development since 2017 and I'm always looking for new ways to improve. I'm currently working at the wonderful [Trybe](https://www.betrybe.com) as a Software developer.
 
 🌱 I’m currently learning **JS**, **Angular** and **DRF** for work and **React** just for fun.
 
