@@ -4,15 +4,11 @@
 
 My name is Fabrícia Diniz, my pronouns are **she/her**, I study web development since 2017 and I'm always looking for new ways to improve. I'm currently working at the wonderful [Trybe](https://www.betrybe.com) as a Software developer.
 
-🌱 I’m currently learning **JS**, **Angular** and **DRF** for work and **React** just for fun.
+🌱 I’m currently learning **JS** and **React**.
 
 📫 **You can find me @**
 
-  - 👾 [Twitch](http://twitch.tv/nomadcodemist) - tue and thu [pt_BR] streaming something code related and chatting with everybody
-  
   - 🎬 [Youtube](http://youtube.com/c/nomadcodemist) - tech and routine related videos 
-  
-  and also
   
   - 👩🏼‍💻 [LinkedIn](https://www.linkedin.com/in/fabricia-diniz/)
   
