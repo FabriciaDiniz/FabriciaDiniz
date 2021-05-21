@@ -19,6 +19,7 @@ My name is Fabrícia Diniz, my pronouns are **she/her**, I study web development
 📜 **Blog posts**
 
  <!-- BLOG-POST-LIST:START -->
+- [A importância da matemática para a programação](https://dev.to/fabriciadiniz/a-importancia-da-matematica-para-a-programacao-329e)
 - [How to use VanHack to get a job abroad](https://dev.to/fabriciadiniz/how-to-use-vanhack-to-get-a-job-abroad-f17)
 - [Como utilizar a VanHack para iniciar sua carreira no exterior](https://dev.to/fabriciadiniz/como-utilizar-a-vanhack-para-iniciar-sua-carreira-no-exterior-4c3d)
 - [Como utilizar duas contas do Github no mesmo computador (Windows)](https://dev.to/fabriciadiniz/como-utilizar-duas-contas-do-github-no-mesmo-computador-windows-2348)
