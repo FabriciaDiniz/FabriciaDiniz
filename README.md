@@ -19,11 +19,11 @@ My name is Fabrícia Diniz, my pronouns are **she/her**, I study web development
 📜 **Blog posts**
 
  <!-- BLOG-POST-LIST:START -->
+- [How to start a task being a junior developer](https://dev.to/fabriciadiniz/how-to-start-a-task-being-a-junior-developer-4d16)
 - [Como iniciar uma tarefa sendo dev júnior](https://dev.to/feministech/como-eu-inicio-uma-tarefa-como-dev-junior-2cno)
 - [The flow of a request in Django](https://dev.to/fabriciadiniz/the-flow-of-a-request-in-django-221c)
 - [Como criar ambientes inclusivos para pessoas neurodiversas](https://dev.to/fabriciadiniz/como-criar-ambientes-inclusivos-para-pessoas-neurodiversas-596n)
 - [A importância da matemática para a programação](https://dev.to/fabriciadiniz/a-importancia-da-matematica-para-a-programacao-329e)
-- [How to use VanHack to get a job abroad](https://dev.to/fabriciadiniz/how-to-use-vanhack-to-get-a-job-abroad-f17)
 <!-- BLOG-POST-LIST:END -->
 
 ⚡ **Fun facts**:
