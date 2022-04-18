@@ -2,19 +2,21 @@
 
 ****
 
-My name is Fabrícia Diniz, my pronouns are **she/her**, I study web development since 2017 and I'm always looking for new ways to improve. I'm currently working at the wonderful [Trybe](https://www.betrybe.com) as a Software developer.
+My name is Fabrícia Diniz, my pronouns are **she/her**, I study web development since 2017 and I'm always looking for new ways to improve. I'm currently working at the wonderful [Red Hat](https://www.redhat.com/en) as a Software Engineer.
 
-🌱 I’m currently learning **JS** and **React**.
+🌱 I’m currently learning **Python**.
 
 📫 **You can find me @**
 
-  - 🎬 [Youtube](http://youtube.com/c/nomadcodemist) - tech and routine related videos 
+  - 🧩 [Polywork](https://www.polywork.com/fabrciadiniz) 
   
   - 👩🏼‍💻 [LinkedIn](https://www.linkedin.com/in/fabricia-diniz/)
   
   - 🖥 [DEV.to](https://dev.to/fabriciadiniz)
   
   - 🐣 [Twitter](http://twitter.com/fabrciadiniz)
+
+  - 🎬 [Youtube](https://www.youtube.com/c/Rumboraviajar) (not tech related though)
 
 📜 **Blog posts**
 
